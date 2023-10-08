@@ -1,0 +1,13 @@
+.c{
+    border:2px red solid;
+}
+
+#x{
+    display:flex;
+    flex-direction:row;
+}
+
+.c{
+    height:300px;
+    width:300px;
+}
